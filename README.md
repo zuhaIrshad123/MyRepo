@@ -1,2 +1,7 @@
-# MyRepo
-for my java work
+
+public class helloworld
+{
+public static void main (strings[] args){
+system.out.println("helloworld")
+}
+}
